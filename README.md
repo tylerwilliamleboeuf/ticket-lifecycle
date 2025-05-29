@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
-This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
+This tutorial showcases how tickets are managed within the open-source support system <strong>osTicket</strong>. It walks through the full lifecycle of a support request—from user intake to final resolution demonstrating how IT support teams communicate, prioritize, and document issues. This hands-on scenario highlights core helpdesk skills relevant for IT support roles.<br />
 
 <h2>Environments and Technologies Used</h2>
 
@@ -24,6 +24,14 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
+<p>
+<b>Actors:</b><br />
+- <strong>Ken/Karen:</strong> End-users submitting support requests<br />
+- <strong>John:</strong> Support Agent<br />
+- <strong>Jane:</strong> Another Support Agent working escalated issues<br />
+- <strong>Admin:</strong> System administrator managing departments and configurations
+</p>
+
 <h3>1. Login as Admin/Analyst</h3>
 <p>
 Admin/Analyst Login Page: <code>http://localhost/osTicket/scp/login.php</code><br />
@@ -32,7 +40,7 @@ End-User Login Page: <code>http://localhost/osTicket</code>
 
 <h3>2. Department Setup</h3>
 <p>
-- Change the "SysAdmins" department to a Top-Level Department<br />
+- Change the "SysAdmins" department to a Top-Level Department to reflect its broader responsibility and visibility across the system.<br />
 - DELETE the "Maintenance" department (not archive)
 </p>
 <p>
@@ -61,9 +69,6 @@ End-User Login Page: <code>http://localhost/osTicket</code>
 </p>
 <p>
 <img src="https://i.imgur.com/fgyiNkO.png"/>
-</p>
-<p>
-<img src="https://i.imgur.com/KGqjcPD.png"/>
 </p>
 <p>
 <img src="https://i.imgur.com/KGqjcPD.png"/>
@@ -164,3 +169,9 @@ Tickets can originate from phone calls, emails, chat apps, web forms—or just s
 Even if you fix something quickly, it's best practice to create a ticket for everything. Metrics matter.
 </p>
 <br />
+
+<h3>Conclusion</h3>
+<p>
+This walkthrough demonstrates key helpdesk concepts: ticket prioritization (SLA), departmental routing, and clear communication between users and agents. It also reinforces the importance of documentation, even for quick fixes. Understanding and working within systems like osTicket is essential for delivering consistent IT support and tracking performance.
+</p>
+

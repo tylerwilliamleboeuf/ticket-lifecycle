@@ -92,22 +92,36 @@ End-User Login Page: <code>http://localhost/osTicket</code>
 </p>
 <br />
 
-<h3>7. Create Ticket as End-User: Adobe Upgrade</h3>
+<h3>6. Create Ticket as End-User: Adobe Reader Broken</h3>
 <p>
 - Ticket: <strong>"Accounting department needs Adobe upgrade, broken"</strong>
 </p>
 <p>
-<img src="https://i.imgur.com/HqzQ4Jm.png" width="80%" alt="Adobe Upgrade Ticket"/>
-</p><br />
+<img src="https://i.imgur.com/F5rt896.png"/>
+</p>
+<br />
 
-<h3>8. Respond and Complete as John</h3>
+<h3>7. Respond and Complete as John</h3>
 <p>
 - Set properties: <strong>Sev-B (4 hours, 24/7)</strong>, Department: <strong>Support</strong><br />
 - Work to completion
 </p>
 <p>
-<img src="https://i.imgur.com/M3RGezU.png" width="80%" alt="Complete Ticket as John"/>
-</p><br />
+<img src="https://i.imgur.com/aLBtusB.png"/>
+</p>
+<p>
+<img src="https://i.imgur.com/9t4Worx.png"/>
+</p>
+<p>
+<img src="https://i.imgur.com/BefUDKi.png"/>
+</p>
+<p>
+<img src="https://i.imgur.com/xkYtNCK.png"/>
+</p>
+<p>
+<img src="https://i.imgur.com/CQwkpom.png"/>
+</p>
+<br />
 
 <h3>9. Create Ticket as End-User: CFO Laptop</h3>
 <p>

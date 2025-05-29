@@ -123,65 +123,44 @@ End-User Login Page: <code>http://localhost/osTicket</code>
 </p>
 <br />
 
-<h3>9. Create Ticket as End-User: CFO Laptop</h3>
+<h3>10. Create Ticket as End-User: CFO Laptop</h3>
 <p>
 - Ticket: <strong>"CFO’s laptop will no longer turn on"</strong>
 </p>
 <p>
-<img src="https://i.imgur.com/Wc4r56O.png" width="80%" alt="CFO Laptop Ticket"/>
-</p><br />
+<img src="https://i.imgur.com/pNWejzb.png"/>
+</p>
+<br />
 
-<h3>10. Respond and Complete as John</h3>
+<h3>9. Respond and Complete as John</h3>
 <p>
 - Set properties: <strong>Sev-B</strong>, Department: <strong>Support</strong><br />
 - Resolve the ticket
 </p>
 <p>
-<img src="https://i.imgur.com/s8OwJkD.png" width="80%" alt="Complete CFO Laptop Ticket"/>
-</p><br />
-
-<h3>11. Escalate SysAdmins Ticket</h3>
-<p>
-- Set all tickets' priority to SEV-A<br />
-- Observe that John can no longer access SysAdmins ticket
+<img src="https://i.imgur.com/FrE2LVb.png"/>
 </p>
 <p>
-<img src="https://i.imgur.com/LK8Uc8z.png" width="80%" alt="Escalation and Inaccessibility"/>
-</p><br />
-
-<h3>12. Assign John Access to SysAdmins</h3>
-<p>
-- Switch to Admin Panel -> Modify John's team or role to view SysAdmins<br />
-- Switch back to Agent Panel and verify view-only access to ticket
+<img src="https://i.imgur.com/Kv0wQb3.png"/>
 </p>
 <p>
-<img src="https://i.imgur.com/3Mx9vDp.png" width="80%" alt="Assign View Access"/>
-</p><br />
+<img src="https://i.imgur.com/kyGkzho.png"/>
+</p>
+<p>
+<img src="https://i.imgur.com/RkJFmIK.png"/>
+</p>
+<br />
 
-<h3>13. Ticket Communications</h3>
+<h3>10. Ticket Communications</h3>
 <p>
 Most ticketing systems (including osTicket) have email integration.<br />
 When an agent updates a ticket, the end user is notified and can respond.
 </p>
-<p>
-<img src="https://i.imgur.com/6mTtqQu.png" width="80%" alt="Email Updates"/>
-</p><br />
+<br />
 
-<h3>14. Real-World Ticket Intake</h3>
+<h3>11. Real-World Ticket Intake</h3>
 <p>
 Tickets can originate from phone calls, emails, chat apps, web forms—or just someone asking for help in person.<br />
 Even if you fix something quickly, it's best practice to create a ticket for everything. Metrics matter.
 </p>
-<p>
-<img src="https://i.imgur.com/kN3oJ0m.png" width="80%" alt="Real-World Ticket Intake"/>
-</p><br />
-
-<h3>15. Wrapping Up</h3>
-<p>
-This lab barely scratches the surface of osTicket’s capabilities.<br />
-Explore the email feature. Re-do the lab multiple times until it becomes second nature.<br />
-This builds your confidence and supports the <strong>technical skills pillar</strong> that employers value.
-</p>
-<p>
-<img src="https://i.imgur.com/BJRGNcl.png" width="80%" alt="Technical Skills"/>
-</p>
+<br />

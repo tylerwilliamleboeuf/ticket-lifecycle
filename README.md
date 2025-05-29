@@ -128,7 +128,7 @@ End-User Login Page: <code>http://localhost/osTicket</code>
 </p>
 <br />
 
-<h3>10. Create Ticket as End-User: CFO Laptop</h3>
+<h3>8. Create Ticket as End-User: CFO Laptop</h3>
 <p>
 - Ticket: <strong>"CFO’s laptop will no longer turn on"</strong>
 </p>

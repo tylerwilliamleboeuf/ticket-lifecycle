@@ -36,7 +36,7 @@ End-User Login Page: <code>http://localhost/osTicket</code>
 - DELETE the "Maintenance" department (not archive)
 </p>
 <p>
-<img src="https://i.imgur.com/NXAiNZW.png" width="80%" alt="Department Management"/>
+<img src="https://i.imgur.com/uOSP1rv.png"/>
 </p><br />
 
 <h3>3. Create Ticket as End-User: Mobile Banking Down</h3>
@@ -45,7 +45,7 @@ End-User Login Page: <code>http://localhost/osTicket</code>
 - Submit a ticket: <strong>"Entire mobile/online banking system is down"</strong>
 </p>
 <p>
-<img src="https://i.imgur.com/5KPVjwi.png" width="80%" alt="Create Ticket Mobile Banking Down"/>
+<img src="https://i.imgur.com/6Ba2OrH.png"/>
 </p><br />
 
 <h3>4. Respond as Agent (John)</h3>
@@ -54,26 +54,43 @@ End-User Login Page: <code>http://localhost/osTicket</code>
 - Set to: <strong>Sev-A (1 hour, 24/7)</strong>, Department: <strong>Online Banking</strong>
 </p>
 <p>
-<img src="https://i.imgur.com/YrlDoJt.png" width="80%" alt="Agent View of Ticket"/>
-</p><br />
-
-<h3>5. Re-observe Ticket as John</h3>
-<p>
-- Attempt to access the escalated ticket as John<br />
-- Ticket should now be inaccessible
+<img src="https://i.imgur.com/dcg0xVz.png"/>
 </p>
 <p>
-<img src="https://i.imgur.com/z9V4XfA.png" width="80%" alt="Inaccessible Ticket"/>
-</p><br />
+<img src="https://i.imgur.com/T00XR0N.png"/>
+</p>
+<p>
+<img src="https://i.imgur.com/fgyiNkO.png"/>
+</p>
+<p>
+<img src="https://i.imgur.com/KGqjcPD.png"/>
+</p>
+<p>
+<img src="https://i.imgur.com/KGqjcPD.png"/>
+</p>
+<p>
+<img src="https://i.imgur.com/r51QSLY.png"/> 
+</p>
+<br />
 
-<h3>6. Solve Ticket as Jane</h3>
+<h3>5. Solve Ticket as Jane</h3>
 <p>
 - Login as Jane<br />
 - Complete the mobile banking ticket resolution
 </p>
 <p>
-<img src="https://i.imgur.com/I1nBfKh.png" width="80%" alt="Resolve Ticket as Jane"/>
-</p><br />
+<img src="https://i.imgur.com/bJP4UDM.png"/>
+</p>
+<p>
+<img src="https://i.imgur.com/NoyKKu7.png"/>
+</p>
+<p>
+<img src="https://i.imgur.com/sWmVhSk.png"/> 
+</p>
+<p>
+<img src="https://i.imgur.com/WWwBmTD.png"/>  
+</p>
+<br />
 
 <h3>7. Create Ticket as End-User: Adobe Upgrade</h3>
 <p>

@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
-This tutorial showcases how tickets are managed within the open-source support system <strong>osTicket</strong>. It walks through the full lifecycle of a support request—from user intake to final resolution demonstrating how IT support teams communicate, prioritize, and document issues. This hands-on scenario highlights core helpdesk skills relevant for IT support roles.<br />
+This tutorial showcases how tickets are managed within the open-source support system <strong>osTicket</strong>. It walks through the full lifecycle of a support request from user intake to final resolution demonstrating how IT support teams communicate, prioritize, and document issues. This hands-on scenario highlights core helpdesk skills relevant for IT support roles.<br />
 
 <h2>Environments and Technologies Used</h2>
 
